@@ -10,7 +10,7 @@ public class contandoArena{
                 System.out.print(uno);
             }
             System.out.println();
-            in=sc.nextInt();
+            in=sc.nextInt()
         }
     }
 }
